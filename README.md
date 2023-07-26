@@ -5,7 +5,9 @@ This Solidity program is a simple program that demonstrates the basic usage of f
 ## Description
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a two functions which are used to balance of the addresses and totalSupply i.e `burn` functions is used to decrease `totalSupply` and balance of the given address only if having enough balance. `mint` function is used to increase the `totalSupply` and balance of the gievn address. We have more variable such as `tokenName`, `abbr` and a map `balances` to store balance of each address.
-a
+
+## Getting Started
+
 ### Executing program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
